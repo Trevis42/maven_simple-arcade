@@ -1,7 +1,5 @@
 package com.github.curriculeon.arcade.games;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.curriculeon.arcade.ArcadeAccount;
 
 public abstract class AbstractPlayer implements PlayerInterface {
